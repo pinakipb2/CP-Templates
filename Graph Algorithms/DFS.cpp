@@ -46,7 +46,7 @@ void DFS(ll source)
 
 void DFSDisconn()
 {
-    for(int i=0;i<m;i++)
+    for(int i=0;i<n;i++)
     {
         if(!vis[i])
         {
